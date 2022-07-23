@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey! 👋
 
-<!--
-**gareisdev/gareisdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Leonel 👨‍💻. I am a web developer from Argentina.
 
-Here are some ideas to get you started:
+💻 Knowledge:
++ Python (Django, Flask, FastAPI)
++ Javascript (React, Node.js, Typescript)
++ HTML & CSS
++ C++
++ Docker
++ AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to contact me, follow me on:
+
+(🐦) [Twitter](https://twitter.com/leogareis)
+
+(📸) [Instagram](https://instagram.com/gareis.dev)
+
+(💼) [LinkedIn](https://linkedin.com/in/leonel-gareis)
