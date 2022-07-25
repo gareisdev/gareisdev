@@ -8,6 +8,7 @@ My name is Leonel 👨‍💻. I am a web developer from Argentina.
 + HTML & CSS
 + C++
 + Docker
++ Linux
 + AWS
 
 If you want to contact me, follow me on:
