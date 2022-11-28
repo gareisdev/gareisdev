@@ -11,6 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Detectar extension de imagen con el metodo de los numeros magicos](https://dev.to/gareisdev/detectar-extension-de-imagen-con-el-metodo-de-los-numeros-magicos-3b4g)
+- [Aprendiendo Django #2](https://dev.to/gareisdev/aprendiendo-django-2-j48)
+- [Bases de datos: Vistas](https://dev.to/gareisdev/bases-de-datos-vistas-2eo6)
+- [Aprendiendo Django #1](https://dev.to/gareisdev/aprendamos-django-1-cl0)
+- [Tu primer Web App con Flask: Parte 4](https://dev.to/gareisdev/tu-primer-web-app-con-flask-parte-4-44dk)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
