@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Leonel</h1>
-<h3 align="center">A passionate backend developer from Argentina</h3>
+<h1 align="center">Hola 👋, soy Leonel</h1>
+<h3 align="center">Sr. Backend Developer | Tech Lead | DevSecOps Specialist</h3>
 
-- 🔭 I’m currently working on [API Broker](https://apibroker.banza.com.ar/)
+- Soy de Argentina 🧉
+- 🔭 Actualmente ocupo los siguientes roles:
+  -  Tech Lead en [API Broker](https://apibroker.banza.com.ar/)
+  -  Backend Developer en [Talent Hackers](https://talenthackers.net/)
+  -  DevSecOps Specialist en [Adcap](https://www.ad-cap.com.ar/)
 
-- 🌱 I’m currently learning **DevSecOps**
+- 📝 Suelo escribir cosas en [dev.to/gareisdev](dev.to/gareisdev) (no dudes en pegarte una vuelta por ahi)
 
-- 📝 I regularly write articles on [dev.to/gareisdev](dev.to/gareisdev)
 
-- 💬 Ask me about **Python, Javascript, Docker, Kubernetes**
-
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Hablemos de Contenedores](https://dev.to/gareisdev/hablemos-de-contenedores-3ne6)
 - [Detectar extension de imagen con el metodo de los numeros magicos](https://dev.to/gareisdev/detectar-extension-de-imagen-con-el-metodo-de-los-numeros-magicos-3b4g)
