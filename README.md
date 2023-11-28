@@ -13,9 +13,6 @@
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Despliega un servidor Nginx en AWS con Terraform](https://dev.to/gareisdev/despliega-un-servidor-nginx-en-aws-con-terraform-3385)
-- [Hablemos de Contenedores](https://dev.to/gareisdev/hablemos-de-contenedores-3ne6)
-- [Detectar extension de imagen con el metodo de los numeros magicos](https://dev.to/gareisdev/detectar-extension-de-imagen-con-el-metodo-de-los-numeros-magicos-3b4g)
-- [Aprendiendo Django #2](https://dev.to/gareisdev/aprendiendo-django-2-j48)
 - [Bases de datos: Vistas](https://dev.to/gareisdev/bases-de-datos-vistas-2eo6)
 <!-- BLOG-POST-LIST:END -->
 
