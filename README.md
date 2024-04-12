@@ -5,7 +5,7 @@
 - 🔭 Actualmente ocupo los siguientes roles:
   -  Tech Lead en [API Broker](https://apibroker.banza.com.ar/)
   -  Backend Developer en [Talent Hackers](https://talenthackers.net/)
-  -  DevSecOps Specialist en [Adcap](https://www.ad-cap.com.ar/)
+  -  DevSecOps Lead en [Adcap](https://www.ad-cap.com.ar/)
 
 - 📝 Suelo escribir cosas en [dev.to/gareisdev](dev.to/gareisdev) (no dudes en pegarte una vuelta por ahi)
 
