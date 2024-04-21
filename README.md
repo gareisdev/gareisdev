@@ -3,7 +3,6 @@
 
 - Soy de Argentina 🧉
 - 🔭 Actualmente ocupo los siguientes roles:
-  -  Tech Lead en [API Broker](https://apibroker.banza.com.ar/)
   -  Backend Developer en [Talent Hackers](https://talenthackers.net/)
   -  DevSecOps Lead en [Adcap](https://www.ad-cap.com.ar/)
 
