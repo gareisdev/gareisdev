@@ -12,6 +12,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker para Jrs #1: Introducción 🔥](https://dev.to/gareisdev/docker-para-jrs-1-introduccion-b6p)
 - [Despliega un servidor Nginx en AWS con Terraform](https://dev.to/gareisdev/despliega-un-servidor-nginx-en-aws-con-terraform-3385)
 - [Bases de datos: Vistas](https://dev.to/gareisdev/bases-de-datos-vistas-2eo6)
 <!-- BLOG-POST-LIST:END -->
