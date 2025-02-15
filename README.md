@@ -3,10 +3,8 @@
 
 - Soy de Argentina 🧉
 - 🔭 Actualmente ocupo los siguientes roles:
-  -  Backend Developer en [Talent Hackers](https://talenthackers.net/)
-  -  DevSecOps Lead en [Adcap](https://www.ad-cap.com.ar/)
-  -  Cloud Architect en LoudIntelligence
-
+  - SRE en [FravegaTech](https://www.fravega.com.ar/)
+  
 - 📝 Suelo escribir cosas en [dev.to/gareisdev](dev.to/gareisdev) (no dudes en pegarte una vuelta por ahi)
 
 
